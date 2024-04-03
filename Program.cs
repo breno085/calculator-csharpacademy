@@ -1,6 +1,5 @@
 ﻿using System.Text.RegularExpressions;
 using calculador.Models;
-using System.Collections.Generic;
 
 bool endApp = false;
 int numberOfUses = 0;
@@ -68,7 +67,7 @@ while (!endApp)
                     Console.WriteLine("This operation will result in a mathematical error.\n");
                 }
                 else Console.WriteLine("Your result: {0:0.##}\n", result);
-                operations.addResultToList(result);
+                operations.AddResultToList(result);
             }
             catch (Exception e)
             {
