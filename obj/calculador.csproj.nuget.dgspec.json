@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/brenoacioli/Documents/calculador/CodeReviews.Console.Calculator/calculador.csproj": {}
+    "/home/brenoacioli/Documents/calculador/calculador.csproj": {}
   },
   "projects": {
-    "/home/brenoacioli/Documents/calculador/CodeReviews.Console.Calculator/calculador.csproj": {
+    "/home/brenoacioli/Documents/calculador/calculador.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/brenoacioli/Documents/calculador/CodeReviews.Console.Calculator/calculador.csproj",
+        "projectUniqueName": "/home/brenoacioli/Documents/calculador/calculador.csproj",
         "projectName": "calculador",
-        "projectPath": "/home/brenoacioli/Documents/calculador/CodeReviews.Console.Calculator/calculador.csproj",
+        "projectPath": "/home/brenoacioli/Documents/calculador/calculador.csproj",
         "packagesPath": "/home/brenoacioli/.nuget/packages/",
-        "outputPath": "/home/brenoacioli/Documents/calculador/CodeReviews.Console.Calculator/obj/",
+        "outputPath": "/home/brenoacioli/Documents/calculador/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/brenoacioli/.nuget/NuGet/NuGet.Config"

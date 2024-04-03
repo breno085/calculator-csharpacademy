@@ -2,22 +2,20 @@ using System.Text.RegularExpressions;
 
 namespace calculador.Models
 {
-    public class Results
+    public class Calculations
     {   
         public List<double> ResultsOperations { get; set; }
-
-        public Results()
+        public Calculations()
         {
             ResultsOperations = new List<double>();
         }
-
         public void AddResultToList(double result)
         {
             ResultsOperations.Add(result);
         }
         public void ListOfResults()
         {   
-            string? op = "";
+            string? op;
 
             Console.WriteLine("1 - Show list");
             Console.WriteLine("2 - Delete list");
@@ -30,6 +28,7 @@ namespace calculador.Models
                 Console.WriteLine("Error: Unrecognized input. Type 1 or 2");
                 op = Console.ReadLine();
             }
+            
             if (op == "1")
             {
                 foreach (double item in ResultsOperations)
@@ -41,6 +40,5 @@ namespace calculador.Models
                 ResultsOperations.Clear();
             }
         }
-
     }
 }

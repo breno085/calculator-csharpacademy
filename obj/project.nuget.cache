@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3a6wsmukiSJNkzAR9C5EuBLDMWXy73U1fK31eF/ceCLclq2+HenQZFa4pUzY+izdXY4vzgmBqOpXW4CMXd9tzQ==",
+  "dgSpecHash": "GXnYRBQbE1lT6AnCOgnpZRX3XwOPnCEgDe/8NKO4eWYfWgQwno9HgNta2hw6z2gr1cH+MZ0rgA2a9HyaLDuhkA==",
   "success": true,
-  "projectFilePath": "/home/brenoacioli/Documents/calculador/CodeReviews.Console.Calculator/calculador.csproj",
+  "projectFilePath": "/home/brenoacioli/Documents/calculador/calculador.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

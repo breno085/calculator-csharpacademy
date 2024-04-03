@@ -12,3 +12,4 @@
 /home/brenoacioli/Documents/calculador/obj/Debug/net8.0/calculador.pdb
 /home/brenoacioli/Documents/calculador/obj/Debug/net8.0/calculador.genruntimeconfig.cache
 /home/brenoacioli/Documents/calculador/obj/Debug/net8.0/ref/calculador.dll
+/home/brenoacioli/Documents/calculador/obj/Debug/net8.0/calculador.sourcelink.json
